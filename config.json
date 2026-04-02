@@ -1,1 +1,16 @@
-
+{
+  "version": "1.3.0.9",
+  "script_url": "",
+  "new_name": "",
+  "news_msg": "",
+  "show_news": false,
+  "maintenance": false,
+  "users": {
+    "kinzi": {
+      "password": "finral",
+      "expiry": "10/04/2026",
+      "device": "",
+      "sid": "CPM2"
+    }
+  }
+}
