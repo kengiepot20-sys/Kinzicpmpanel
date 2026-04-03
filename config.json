@@ -7,9 +7,9 @@
   "maintenance": false,
   "users": {
     "kinzi": {
-      "password": "finral",
+      "password": "kinzi",
       "expiry": "10/04/2026",
-      "device": "",
+      "device": "1771033509",
       "sid": "CPM2"
     }
   }
