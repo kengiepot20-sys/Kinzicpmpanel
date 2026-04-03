@@ -2,7 +2,7 @@
   "version": "1.3.0.9",
   "script_url": "",
   "new_name": "",
-  "news_msg": "Some script features are patched and may not work yet. WeÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂre fixing them!\n\nunlock  car (patched)\nunlock police ( still fixing)\n\nÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨ Welcome to the script, and thank you for your support!\n\n\n",
+  "news_msg": "Some script features are patched and may not work yet. WeÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂre fixing them!\n\nunlock  car (patched)\nunlock police ( still fixing)\n\nÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¨ Welcome to the script, and thank you for your support!\n\n\n",
   "show_news": true,
   "maintenance": false,
   "users": {
@@ -50,6 +50,12 @@
     },
     "MERTLFU": {
       "password": "MERT",
+      "expiry": "03/05/2026",
+      "device": "",
+      "sid": "CPM2"
+    },
+    "IVANLFU": {
+      "password": "IVAN",
       "expiry": "03/05/2026",
       "device": "",
       "sid": "CPM2"
