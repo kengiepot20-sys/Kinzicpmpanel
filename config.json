@@ -30,8 +30,8 @@
       "device": "1771033509",
       "sid": "CPM21"
     },
-    "BG": {
-      "password": "BG",
+    "Random": {
+      "password": "Random",
       "expiry": "04/04/2026",
       "device": "",
       "sid": "CPM2"
