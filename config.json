@@ -113,6 +113,12 @@
       "expiry": "04/05/2026",
       "device": "1775231831",
       "sid": "CPM21"
+    },
+    "kispro": {
+      "password": "liamsmith",
+      "expiry": "04/05/2026",
+      "device": "1775234039",
+      "sid": "CPM2"
     }
   }
 }
