@@ -77,6 +77,12 @@
       "expiry": "03/05/2026",
       "device": "",
       "sid": "CPM2 "
+    },
+    "nixsolo": {
+      "password": "nixgaming45",
+      "expiry": "10/06/2026",
+      "device": "",
+      "sid": ""
     }
   }
 }
