@@ -119,6 +119,12 @@
       "expiry": "04/05/2026",
       "device": "1775234039",
       "sid": "CPM21"
+    },
+    "Aydın": {
+      "password": "Aydın1m",
+      "expiry": "03/05/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
