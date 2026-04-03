@@ -47,6 +47,12 @@
       "expiry": "03/05/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "MERTLFU": {
+      "password": "MERT",
+      "expiry": "03/05/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
