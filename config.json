@@ -107,6 +107,12 @@
       "expiry": "03/05/2026",
       "device": "1775230401",
       "sid": "CPM21"
+    },
+    "ClubBaba": {
+      "password": "G2Boules",
+      "expiry": "04/05/2026",
+      "device": "1775231831",
+      "sid": "CPM2"
     }
   }
 }
