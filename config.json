@@ -35,6 +35,12 @@
       "expiry": "04/04/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "Karem": {
+      "password": "Karem2",
+      "expiry": "03/05/2026",
+      "device": "",
+      "sid": "CPM21"
     }
   }
 }
