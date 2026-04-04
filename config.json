@@ -155,6 +155,12 @@
       "expiry": "04/05/2026",
       "device": "1775297846",
       "sid": "CPM2"
+    },
+    "SOONERLFU": {
+      "password": "SOONER",
+      "expiry": "04/05/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
