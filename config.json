@@ -227,6 +227,12 @@
       "expiry": "09/05/2026",
       "device": "",
       "sid": "CPM2 "
+    },
+    "Blast22": {
+      "password": "Blast22",
+      "expiry": "09/05/2026",
+      "device": "",
+      "sid": "Cpm2"
     }
   }
 }
