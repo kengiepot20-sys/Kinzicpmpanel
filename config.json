@@ -203,6 +203,12 @@
       "expiry": "09/05/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "Vural": {
+      "password": "Vural",
+      "expiry": "09/05/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
