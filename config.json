@@ -209,6 +209,12 @@
       "expiry": "09/05/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "Elmas11": {
+      "password": "Elmas11",
+      "expiry": "09/05/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
