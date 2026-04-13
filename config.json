@@ -245,6 +245,12 @@
       "expiry": "13/05/2026",
       "device": "",
       "sid": "CPM21"
+    },
+    "Oguzlfu": {
+      "password": "Oguz",
+      "expiry": "13/05/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
