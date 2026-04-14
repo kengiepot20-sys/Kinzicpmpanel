@@ -263,6 +263,12 @@
       "expiry": "14/05/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "Emanuel": {
+      "password": "exelente",
+      "expiry": "21/04/2026",
+      "device": "1776174611",
+      "sid": "CPM21"
     }
   }
 }
