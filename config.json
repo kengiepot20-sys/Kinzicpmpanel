@@ -251,6 +251,12 @@
       "expiry": "13/05/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "TRCK": {
+      "password": "TRCK123",
+      "expiry": "21/04/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
