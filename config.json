@@ -293,6 +293,12 @@
       "expiry": "22/07/2026",
       "device": "1776120755",
       "sid": "CPM2"
+    },
+    "KINZ": {
+      "password": "123123",
+      "expiry": "16/05/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
