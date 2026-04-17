@@ -347,6 +347,12 @@
       "expiry": "15/07/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "Mokone": {
+      "password": "1234",
+      "expiry": "19/06/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
