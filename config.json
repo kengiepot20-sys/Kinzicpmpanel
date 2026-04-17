@@ -341,6 +341,12 @@
       "expiry": "18/06/2026",
       "device": "1771782314",
       "sid": "CPM2"
+    },
+    "xencore666": {
+      "password": "xencore",
+      "expiry": "15/07/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
