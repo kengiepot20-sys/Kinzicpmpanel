@@ -317,6 +317,12 @@
       "expiry": "05/06/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "Omari": {
+      "password": "1234",
+      "expiry": "17/06/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
