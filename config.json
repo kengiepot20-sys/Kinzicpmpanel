@@ -335,6 +335,12 @@
       "expiry": "17/11/2026",
       "device": "1775283571",
       "sid": "CPM2"
+    },
+    "Faixo": {
+      "password": "1234",
+      "expiry": "18/06/2026",
+      "device": "",
+      "sid": "Cpm2"
     }
   }
 }
