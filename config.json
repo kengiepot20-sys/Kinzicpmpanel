@@ -323,6 +323,12 @@
       "expiry": "17/06/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "Owna": {
+      "password": "1234",
+      "expiry": "18/06/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
