@@ -359,6 +359,12 @@
       "expiry": "17/06/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "Nissee": {
+      "password": "1234",
+      "expiry": "18/05/2026",
+      "device": "",
+      "sid": "Cpm2"
     }
   }
 }
