@@ -365,6 +365,12 @@
       "expiry": "18/05/2026",
       "device": "1776501190",
       "sid": "CPM2"
+    },
+    "IGNACIOLIFETIME": {
+      "password": "1231",
+      "expiry": "21/05/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
