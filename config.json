@@ -402,10 +402,10 @@
       "device": "1777084093",
       "sid": "CPM2"
     },
-    "Test": {
+    "TESTBG": {
       "password": "1111",
       "expiry": "01/01/2099",
-      "device": "",
+      "device": "1775198265",
       "sid": "CPM2"
     }
   }
