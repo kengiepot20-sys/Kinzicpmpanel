@@ -395,6 +395,12 @@
       "expiry": "26/06/2026",
       "device": "1775295603",
       "sid": "CPM2"
+    },
+    "Doofenshmirtz": {
+      "password": "Doofenshmirtz11",
+      "expiry": "25/09/2026",
+      "device": "1777084093",
+      "sid": "CPM2"
     }
   }
 }
