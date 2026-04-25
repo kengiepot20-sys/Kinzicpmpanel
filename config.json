@@ -12,12 +12,6 @@
       "device": "",
       "sid": "CPM2"
     },
-    "test": {
-      "password": "test",
-      "expiry": "10/04/2026",
-      "device": "",
-      "sid": "CPM2"
-    },
     "kinzicpm": {
       "password": "finral",
       "expiry": "01/01/2099",
