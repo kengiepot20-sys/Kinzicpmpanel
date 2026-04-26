@@ -419,6 +419,12 @@
       "expiry": "26/05/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "SOLO": {
+      "password": "1212",
+      "expiry": "24/06/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
