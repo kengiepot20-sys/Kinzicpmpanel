@@ -425,6 +425,12 @@
       "expiry": "24/06/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "KARL": {
+      "password": "1234",
+      "expiry": "28/08/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
