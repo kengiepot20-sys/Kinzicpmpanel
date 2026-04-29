@@ -449,6 +449,12 @@
       "expiry": "29/05/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "ABBOS": {
+      "password": "123",
+      "expiry": "29/05/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
