@@ -443,6 +443,12 @@
       "expiry": "29/06/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "VICENTE": {
+      "password": "1234",
+      "expiry": "29/05/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
