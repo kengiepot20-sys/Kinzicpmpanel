@@ -461,6 +461,12 @@
       "expiry": "29/06/2026",
       "device": "1776079127",
       "sid": "CPM2"
+    },
+    "MERCO": {
+      "password": "1212",
+      "expiry": "30/06/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
