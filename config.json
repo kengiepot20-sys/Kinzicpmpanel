@@ -473,6 +473,12 @@
       "expiry": "30/06/2026",
       "device": "1777581061",
       "sid": "CPM2"
+    },
+    "HUSEIN": {
+      "password": "1212",
+      "expiry": "22/07/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
