@@ -485,6 +485,12 @@
       "expiry": "04/08/2026",
       "device": "1777778789",
       "sid": "CPM2"
+    },
+    "YAMO": {
+      "password": "1212",
+      "expiry": "02/06/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
