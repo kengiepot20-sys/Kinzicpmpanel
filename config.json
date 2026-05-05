@@ -491,6 +491,12 @@
       "expiry": "28/08/2026",
       "device": "1777808999",
       "sid": "CPM2"
+    },
+    "AZAMLFU": {
+      "password": "1212",
+      "expiry": "04/06/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
