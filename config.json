@@ -497,6 +497,12 @@
       "expiry": "04/06/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "ARDALFU": {
+      "password": "1212",
+      "expiry": "04/06/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
