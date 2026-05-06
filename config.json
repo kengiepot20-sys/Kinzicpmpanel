@@ -503,6 +503,12 @@
       "expiry": "04/06/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "GEARENEBA": {
+      "password": "1212",
+      "expiry": "14/07/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
