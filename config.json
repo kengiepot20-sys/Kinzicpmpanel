@@ -509,6 +509,12 @@
       "expiry": "14/07/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "CPM1BG": {
+      "password": "123123",
+      "expiry": "01/08/2026",
+      "device": "",
+      "sid": "CPM1"
     }
   }
 }
