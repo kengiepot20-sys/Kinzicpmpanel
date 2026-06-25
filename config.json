@@ -521,6 +521,12 @@
       "expiry": "29/12/2026",
       "device": "",
       "sid": "CPM1"
+    },
+    "qashah06": {
+      "password": "Fz@140406",
+      "expiry": "25/07/2026",
+      "device": "1782383682",
+      "sid": "CPM2"
     }
   }
 }
