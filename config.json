@@ -527,6 +527,12 @@
       "expiry": "25/07/2026",
       "device": "1782383682",
       "sid": "CPM2"
+    },
+    "YUSUP1MONTH": {
+      "password": "YUSUP",
+      "expiry": "26/07/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
