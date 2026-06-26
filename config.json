@@ -533,6 +533,12 @@
       "expiry": "26/07/2026",
       "device": "1782413675",
       "sid": "CPM2"
+    },
+    "saleem": {
+      "password": "alhimyry",
+      "expiry": "26/07/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
