@@ -545,6 +545,12 @@
       "expiry": "26/07/2026",
       "device": "1781360062",
       "sid": "CPM2"
+    },
+    "DANIEL": {
+      "password": "DANIEL1YR",
+      "expiry": "28/06/2027",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
