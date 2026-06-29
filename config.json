@@ -551,6 +551,12 @@
       "expiry": "28/06/2027",
       "device": "",
       "sid": "CPM2"
+    },
+    "JAMES1MONTH": {
+      "password": "1234",
+      "expiry": "29/07/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
