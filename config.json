@@ -557,6 +557,12 @@
       "expiry": "29/07/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "Levi": {
+      "password": "060606",
+      "expiry": "30/07/2027",
+      "device": "1782734752",
+      "sid": "CPM2"
     }
   }
 }
