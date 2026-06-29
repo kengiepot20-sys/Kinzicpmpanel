@@ -563,6 +563,12 @@
       "expiry": "30/07/2027",
       "device": "1782734752",
       "sid": "CPM2"
+    },
+    "EREN20DAYS": {
+      "password": "BILLIONAIRE",
+      "expiry": "20/07/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
