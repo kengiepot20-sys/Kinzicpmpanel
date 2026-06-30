@@ -569,6 +569,12 @@
       "expiry": "20/07/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "dedes": {
+      "password": "dedes1945",
+      "expiry": "27/10/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
