@@ -581,6 +581,12 @@
       "expiry": "30/10/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "KINZIDEV": {
+      "password": "THANKYOU",
+      "expiry": "31/07/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
