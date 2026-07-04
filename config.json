@@ -581,6 +581,12 @@
       "expiry": "30/10/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "rafw": {
+      "password": "rafw12345",
+      "expiry": "03/08/2026",
+      "device": "1782952435",
+      "sid": "CPM2"
     }
   }
 }
