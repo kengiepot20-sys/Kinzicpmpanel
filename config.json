@@ -587,6 +587,12 @@
       "expiry": "03/08/2026",
       "device": "1782952435",
       "sid": "CPM2"
+    },
+    "HYPEX1MONTH": {
+      "password": "1234",
+      "expiry": "04/09/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
