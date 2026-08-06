@@ -593,6 +593,12 @@
       "expiry": "04/09/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "trfs001": {
+      "password": "1234",
+      "expiry": "03/12/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
