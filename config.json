@@ -599,6 +599,12 @@
       "expiry": "03/12/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "VIP1336SCRIPT": {
+      "password": "https://discord.gg/3ueE8UEMpG",
+      "expiry": "14/09/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
