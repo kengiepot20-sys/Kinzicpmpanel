@@ -623,6 +623,12 @@
       "expiry": "28/10/2026",
       "device": "1781627742",
       "sid": "CPM2"
+    },
+    "waseem": {
+      "password": "waseem123",
+      "expiry": "28/10/2026",
+      "device": "1790533344",
+      "sid": "CPM2"
     }
   }
 }
