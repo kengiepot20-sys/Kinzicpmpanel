@@ -671,6 +671,12 @@
       "expiry": "29/10/2026",
       "device": "1783005598",
       "sid": "CPM2"
+    },
+    "Shadow": {
+      "password": "Shadow123",
+      "expiry": "29/10/2026",
+      "device": "1790694284",
+      "sid": "CPM2"
     }
   }
 }
