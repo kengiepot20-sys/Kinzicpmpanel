@@ -689,6 +689,12 @@
       "expiry": "01/11/2026",
       "device": "1778290680",
       "sid": "CPM2"
+    },
+    "Rostem018": {
+      "password": "Rostem./@2009",
+      "expiry": "01/12/2026",
+      "device": "1777372556",
+      "sid": "CPM2"
     }
   }
 }
