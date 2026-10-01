@@ -707,6 +707,12 @@
       "expiry": "01/11/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "warrior1month": {
+      "password": "1234",
+      "expiry": "01/11/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
