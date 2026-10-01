@@ -701,6 +701,12 @@
       "expiry": "31/10/2026",
       "device": "1783536781",
       "sid": "CPM2"
+    },
+    "marco1month": {
+      "password": "1234",
+      "expiry": "01/11/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
