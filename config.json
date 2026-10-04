@@ -725,6 +725,12 @@
       "expiry": "03/11/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "ax1month": {
+      "password": "1234",
+      "expiry": "03/11/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
