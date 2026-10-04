@@ -719,6 +719,12 @@
       "expiry": "09/10/2026",
       "device": "1789387035",
       "sid": "CPM2"
+    },
+    "cyber1month": {
+      "password": "1234",
+      "expiry": "03/11/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
