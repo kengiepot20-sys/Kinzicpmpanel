@@ -731,6 +731,12 @@
       "expiry": "03/11/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "alexandra1month": {
+      "password": "1234",
+      "expiry": "04/11/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
