@@ -737,6 +737,12 @@
       "expiry": "04/11/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "jaroej6": {
+      "password": "123456",
+      "expiry": "09/11/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
