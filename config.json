@@ -767,6 +767,12 @@
       "expiry": "13/12/2026",
       "device": "",
       "sid": "CPM2"
+    },
+    "MaomaoIsCutie2": {
+      "password": "Maomao",
+      "expiry": "13/12/2026",
+      "device": "",
+      "sid": "CPM2"
     }
   }
 }
